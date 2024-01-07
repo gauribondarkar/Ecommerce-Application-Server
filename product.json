@@ -1,0 +1,534 @@
+[
+    {
+    "name": "jade plant",
+    "description": "Are you a sucker for succulents? The Crassula Green Mini will be your dream plant kid. One of the easiest houseplants to look after, the Crassula Green Mini boasts a lush foliage which beautifies any room. Also considered lucky as per Feng Shui for its coin like round plump leaves, so go on, bring some green home, the luck just tags along for free.",
+    "price": "249",
+    "image": {
+        "public_id": "Ecommerce/gmadrkcorir6txq5jvyl",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1703920205/Ecommerce/gmadrkcorir6txq5jvyl.webp"
+    },
+    "category": ["indoor"],
+
+    "bestSeller": true
+},
+
+
+{
+    "name": "anthurium red plant",
+    "description": "Anthurium Red or the Flamingo plant is a low-maintenance plant with heart-shaped red waxy blooms that last up to eight weeks. They bloom profusely for more than 250 days a year with bright indirect light and without any special attention and are the perfect size for any indoor area with their bright and shiny presence.",
+    "price": "799",
+    "image": {
+        "public_id": "Ecommerce/vn92cslz1lbeuwpvm7ci",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182727/Ecommerce/vn92cslz1lbeuwpvm7ci.webp"
+    },
+    "category": ["indoor", "flowering"],
+
+    "bestSeller": true,
+
+    "newArrival": true
+
+},
+
+{
+    "name": "areca palm plant",
+    "description": "Once an endangered species, the Areca Palm is a staple in Indian spaces. One of the most undervalued plants in the indoor plant category. This excellent air purifier is pet friendly and easy to grow. Its delicate leaves/fronds grow outwards in a curved manner and add a tropical feel to any space and can adapt to a variety of growing conditions.",
+    "price": "499",
+    "image": {
+        "public_id": "Ecommerce/coojyzkh8fvuxkwymh0e",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182727/Ecommerce/coojyzkh8fvuxkwymh0e.webp"
+    },
+    "category": ["indoor", "xl"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "aglaonema snow white palnt",
+    "description": "Elevate your indoor space with the Aglaonema Snow White plant. With its striking variegated leaves and low-maintenance nature, it's the perfect addition to any home. Thriving in moderate light and adaptable to various conditions, it's a breeze to care for, even for beginners. Ideal for all décor themes, the Aglaonema Snow White brings a touch of nature's elegance indoors. Its lush green and creamy white foliage complements both sleek modern spaces and culturally rich traditional interiors. This plant not only purifies the air but also adds a sense of tranquillity to your surroundings. Place it in living rooms, bedrooms, or offices, its charm and adaptability make it a must-have indoor companion for all décor styles.",
+    "price": "1249",
+    "image": {
+        "public_id": "Ecommerce/slb2ve5bahyovm9u3y4o",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182727/Ecommerce/slb2ve5bahyovm9u3y4o.webp"
+    },
+    "category": ["indoor", "flowering", "xl"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "peace lily",
+    "description": "The bigger cousin of the beautiful peace lily, the Spathiphyllum Sensation is one of the most loved peace lily varieties in the world. In addition to its majestic white flowers, it has large, glossy, oblong leaves that are excellent air purifiers. The best part is its ease of growth and low-maintenance nature which makes it a perfect choice for first-time gardeners.",
+    "price": "299",
+    "image": {
+        "public_id": "Ecommerce/oshgtcvt7gsjwbsvbdy9",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182728/Ecommerce/oshgtcvt7gsjwbsvbdy9.webp"
+    },
+    "category": ["indoor", "flowering"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "bamboo palm plant",
+    "description": "Its lush green foliage swaying daintily in the breeze is sure to remind you of tropical resorts. The stunning green leaves grow directly from the stem and over time the spread of the plant increases to fill up the pot. An excellent air purifier the bamboo palm is easy to grow and maintain, it makes a great centrepiece in a quirky pot.",
+    "price": "399",
+    "image": {
+        "public_id": "Ecommerce/kfhiouwdeyfyhw1mzqyp",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182728/Ecommerce/kfhiouwdeyfyhw1mzqyp.webp"
+    },
+    "category": ["indoor", "xl"]
+
+},
+
+{
+    "name": "peacock plant",
+    "description": "The Calathea Makoyana is native to the Brazilian rainforest and a proud winner of Royal Horticultural Society's Award of Garden Merit. A darling of home gardeners for decades now, its popularity still tops the chart owing to its air purifying and pet friendly nature. The leaves are almost translucent with the top variegations reflected on the underside in purple, earning it the name Cathedral Windows .",
+    "price": "599",
+    "image": {
+        "public_id": "Ecommerce/th8p3lui0ytjkxzweqt5",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182728/Ecommerce/th8p3lui0ytjkxzweqt5.webp"
+    },
+    "category": ["indoor"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "plastic pot",
+    "description": "If you are looking for a simple black/terracotta color planter that is strong, durable, weather proof, and can be used outdoors as terrace planters, as lobby planters, as balcony planters, or even as liner pots for indoor planters then the Gro Pro series planters are just for you. Made of 100% recyclable plastic, this simple plastic planter is sturdy, holds its shape, has a raised bottom for easy drainage, and an easy grip to facilitate easy handling. Their compact shape allows you to stack them against each other to create a plant border/boundary in your balcony and the plant friendly material does not leach chemicals into the soil. The planter can be reused again and again and the exterior matte finish means that it can be used as is in any setting. It can also be used as liner pots for decorative indoor planters that do not have drainage holes. The planter comes in various sizes and two colors, so select one that suits your plant size.",
+    "price": "149",
+    "image": {
+        "public_id": "Ecommerce/ifjm9g1dnpyesayyqlte",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182729/Ecommerce/ifjm9g1dnpyesayyqlte.webp"
+    },
+    "category": ["pot"]
+
+},
+
+{
+    "name": "peperomia green plant",
+    "description": "The Peperomia Green is a great houseplant. It is low maintenance, looks beautiful and purifies air. An ornamental plant with succulent like fleshy, thick green leaves that adapts and grows very well in a variety of conditions. If cared for, this one will be by your side for the long run. Add a pop of green to your home by taking home this beauty.",
+    "price": "249",
+    "image": {
+        "public_id": "Ecommerce/sxdllrkwqglochg2qbae",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182729/Ecommerce/sxdllrkwqglochg2qbae.webp"
+    },
+    "category": ["indoor"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "poinsettia pink plant",
+    "description": "The Christmas plant carries all the festive cheer and traditional colours. The Poinsettia Plant instantly lifts up any room it is in and is the best Christmas décor money can buy. Colourful, with bright red, yellow and variegated leaves surrounding the buds amongst dark green leaves, the Poinsettias are the happiest and brightest in the months of December and January.",
+    "price": "1499",
+    "image": {
+        "public_id": "Ecommerce/s2xpq3enaso6ckh0wn85",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182729/Ecommerce/s2xpq3enaso6ckh0wn85.webp"
+    },
+    "category": ["indoor", "flowering"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "bird of paradise palnt",
+    "description": "The Strelitzia reginae, more famous as the Bird of Paradise plant is named so for its beautiful orange and blue blooms. A cousin of the banana family, it is one of the easier and more tolerant tropical plants to be grown at home. The plant can grow easily anywhere from bright direct light to semi-shade areas to reward you with graceful arching leaves that come out directly from the soil resembling a hand fan.",
+    "price":"799",
+    "image": {
+        "public_id": "Ecommerce/yv3atmjdmbva3figc560",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182729/Ecommerce/yv3atmjdmbva3figc560.webp"
+    },
+    "category": ["indoor", "flowering", "xl"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "broken heart plant",
+    "description": "One of the most popular houseplants, and our all-time bestseller, this easy-growing plant with its heart-shaped leaves is loved for its beautiful fenestrations. Quick to grow with delicate trailing vines that can be styled for every space, the Philodendron broken heart is the monstera charm you want to add to your home if you don't have the space for the huge monstera. Scientifically known as the Monstera adansonii, this broken heart plant thrives indoors in bright indirect light and with very little care.",
+    "price": "249",
+    "image": {
+        "public_id": "Ecommerce/vmcak8kyallseytavdlj",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182729/Ecommerce/vmcak8kyallseytavdlj.webp"
+    },
+    "category": ["indoor"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "protec tab",
+    "description": "Plant protection and pest control has never been easier, with ProtecTAB all you have to do is add it to water and spray it on your plants, no hassle. The ProtecTAB will protect your plants from bugs and pests and also bacterial and fungal infections. It provides long-lasting protection from a broad range of pests and also makes your plants stronger to battle environmental stress. The ProtecTAB improves plant immunity and disease resistance capacity without any of the hassles for a complete protection.",
+    "price": "299",
+    "image": {
+        "public_id": "Ecommerce/dthnrvpgopswzv8o3i9s",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182731/Ecommerce/dthnrvpgopswzv8o3i9s.webp"
+    },
+    "category": ["fertilizer"]
+
+},
+
+{
+    "name": "button fern plant",
+    "description": "This dependable plant baby will complement any spot you want her to adorn. She is low-maintenance, air purifying and cute as a button, literally. She has a slender appearance owing to a lush foliage that is made up of tiny dark green leaves spaced out on a delicate stem. The easy going Button Fern is perfect for your table or in a hanging pot.",
+    "price": "499",
+    "image": {
+        "public_id": "Ecommerce/ehkon7oyoeaxk7qdoaux",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182732/Ecommerce/ehkon7oyoeaxk7qdoaux.webp"
+    },
+    "category": ["indoor", "xl"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "china doll plant",
+    "description": "It's literally an indoor tree, with its glossy green leaves divided into leaflets growing on woody branches. The radermachera sinica a fairly new plant to the indoor gardening world and is also known as the China Doll Plant and has nothing to do with the country and every thing to do with it being like a doll house tree. The radermachera loves brightly lit spaces and does best in corners where they are not disturbed. The plant is easy to care for and adds an instant forest feel and serves as an excellent plant for balconies and patios.",
+    "price": "2499",
+    "image": {
+        "public_id": "Ecommerce/a2ueeclzjx16lr60jnjc",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182732/Ecommerce/a2ueeclzjx16lr60jnjc.webp"
+    },
+    "category": ["indoor", "xl"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "rooting hormone powder",
+    "description": "Humus is said to be the heart of organic matter. Rootstar contains 12% Humic acid thus it brings the profuse growth of the roots and makes soil airy and porous. This, in turn, enhances the water holding capacity of the plant.",
+    "price": "249",
+    "image": {
+        "public_id": "Ecommerce/s6yr8p64gprgpc77kwjx",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182733/Ecommerce/s6yr8p64gprgpc77kwjx.webp"
+    },
+    "category": ["fertilizer"]
+
+},
+
+{
+    "name": "raphis palm plant",
+    "description": "This is a shade loving palm! The Raphis palm or the lady palm is a smaller plant species with fan-shaped glossy green fronds on slender upright stems. The Raphis palm grows extremely well in low-light areas, is air-purifying, and pet friendly, making it an ideal indoor plant. If your home does not get direct sunlight and you want to keep one magnificent plant in a room -Raphis palm is your answer.",
+    "price": "2499",
+    "image": {
+        "public_id": "Ecommerce/m6dsndw6mhpedcfqdqus",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182735/Ecommerce/m6dsndw6mhpedcfqdqus.webp"
+    },
+    "category": ["indoor", "xl"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "rectangular planter",
+    "description": "With its simple design and mimalistic look the Barca rectangler planter can fit into any space with ease. Perfect as outdoor garden planters, patio planters, planters for lobby areas, terrace planters, and also as indoor pots, the barca is a perfect example of jack of all trades. Made of 100% recyclable polymers material, the barca square planter is easy to use. Extremely light wieght for easy shifting, and highly durable for a long life under varying environmanetal conditions. Its traditional but eternal square shape that fits into corners, combined with natural stone finish makes it a winner in all scenarios. Add it to your outdor or indoor spaces for a put together and landscaped garden look with the ease of plastic pots and the sophistication of natual stone planters.",
+    "price": "2499",
+    "image": {
+        "public_id": "Ecommerce/ewvf93omhogsveckfexg",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182736/Ecommerce/ewvf93omhogsveckfexg.webp"
+    },
+    "category": ["pot"]
+
+},
+
+{
+    "name": "golden money plant",
+    "description": "A darling of home gardeners everywhere, the Money Plant Golden is famous for its never give up attitude. This plant can survive neglect and adapt to almost all growing conditions to fill your space with trailing foliage of bright golden-green coloured leaves in no time. An air purifier that can be styled both as a climbing and trailing plant, it can instantly lend an easy bohemian and tropical vibe to any space. Our self watering planters can be customised with your company logo and the 26th January artwork of your choice from the options provided. You can also add a personalised message card with the message of your choosing.",
+    "price": "325",
+    "image": {
+        "public_id": "Ecommerce/tcsfw4tyk3ci5u7fkmn3",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182737/Ecommerce/tcsfw4tyk3ci5u7fkmn3.webp"
+    },
+    "category": ["indoor"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "fiddle leaf fig plant",
+    "description": "The coolest kid on the block at the moment and an Instagram superstar, the Ficus Lyrata or the Fiddle Leaf Fig is a tropical plant that is also a great air purifier. Give it a spot with enough light and proper watering and it will gift you with beautiful broad leaves that will make your space worthy of a magazine feature. Get it home.",
+    "price": "1049",
+    "image": {
+        "public_id": "Ecommerce/iexafru8puamhtox6igs",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182737/Ecommerce/iexafru8puamhtox6igs.webp"
+    },
+    "category": ["indoor", "xl"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "crassula ovata plant",
+    "description": "The Crassula Ovata, commonly known as the Jade Plant, is an excellent plant featuring waxy, fleshy green leaves that can be grown in both indoor and outdoor spaces. This resilient plant is an easy to grow succulent that is famed to bring luck to your home. It can be pruned to any shape you want. Its low maintenance nature makes it ideal for both homes and offices.",
+    "price": "249",
+    "image": {
+        "public_id": "Ecommerce/vzm4ypugudjyvczzvvv6",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182739/Ecommerce/vzm4ypugudjyvczzvvv6.webp"
+    },
+    "category": ["indoor"]
+
+},
+
+{
+    "name": "epsom salt",
+    "description": "Epsom salt is a magnesium sulphate compound is used extensively to help ornamental flowering plants bloom more profusely and achieve greener and bushier foliage. Made of hydrated magnesium and sulfur, it is essential to healthy plant growth and greener leaves. Use it in the right proportion for a garden full of blooms and stunning green foliage.",
+    "price": "199",
+    "image": {
+        "public_id": "Ecommerce/zug4sf7xnd0efgxlxmre",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182740/Ecommerce/zug4sf7xnd0efgxlxmre.webp"
+    },
+    "category": ["fertilizer"]
+},
+
+{
+    "name": "ceramic pot",
+    "description": "Introducing the 'Maze Ceramic Pot' - a premium quality ceramic planter that is sure to add a touch of contemporary style to your indoor or outdoor space. Crafted from the finest quality ceramic material, this pot boasts a glossy glazed finish that oozes sophistication and class. The evergreen shape of this pot makes it a versatile piece that will blend seamlessly with any decor style. But what really sets it apart is the mesmerizing geometric Maze inspired surface details that bring a modern twist to your plant display. The 'Maze Ceramic Pot' is designed with a drainage hole that promotes healthy plant growth by preventing overwatering. The ceramic base plate is included to catch any excess water and keep your floors or surfaces clean and dry.",
+    "price": "649",
+    "image": {
+        "public_id": "Ecommerce/ulxqzbe0iytrzjqnqsuw",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182740/Ecommerce/ulxqzbe0iytrzjqnqsuw.webp"
+    },
+    "category": ["pot"]
+
+},
+
+{
+    "name": "echeveria pegasus plant",
+    "description": "A beautiful rosette succulent with elegantly curved ends and a pointy tip. The leaves have a bluish-green tone and grow from the centre in asymmetrical rosette shape. Great for areas that receive a few hours of morning sun and bright indirect light through the day, it is extremely easy to grow and propagates via cute pups that grow around the mother plant. Place it in a small cylindrical pot and watch the rosette grow in diameter to overtake the entire top of the planter.",
+    "price": "399",
+    "image": {
+        "public_id": "Ecommerce/ifhelezeoonkjl6nattg",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182745/Ecommerce/ifhelezeoonkjl6nattg.webp"
+    },
+    "category": ["indoor"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "rubber plant",
+    "description": "With its dark glossy leaves, the rubber plant is a crowd favourite of both designers and home gardeners alike. An excellent choice for an air purifying as well as an ornamental plant, it thrives in the Indian climate and can live for almost a decade with proper care, which is very little in the first place. Get it home and watch it grow with you.",
+    "price": "499",
+    "image": {
+        "public_id": "Ecommerce/bjja4pbqrkggcng782h0",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182745/Ecommerce/bjja4pbqrkggcng782h0.webp"
+    },
+    "category": ["indoor", "xl"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "twisted hoya plant",
+    "description": "Hoya carnosa has twisted, waxy leaves that emerge on long rope-like vines, making this Hoya perfect as a hanging plant. Sometimes known by its nicknames, Hindu Rope Hoya and Indian Rope Hoya, it will eventually produce beautiful clusters of star-shaped pink flowers as it matures. Also called the Krinkle Curl plant and this conversation starter will add a unique touch to your home.",
+    "price": "999",
+    "image": {
+        "public_id": "Ecommerce/mrmvgasmkfdfgjss8ko0",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182745/Ecommerce/mrmvgasmkfdfgjss8ko0.webp"
+    },
+    "category": ["indoor", "flowering"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "humic acid",
+    "description": "Revitalize your plants with HumiGrow, an organic humic acid plant vitalizer designed for robust growth. Applied directly to the soil or foliage, this potent solution enriches the soil structure and promotes nutrient absorption. Ideal for both soil drenching and foliar application, HumiGrow stimulates root development and enhances plant resilience. Elevate your gardening experience and witness the transformative effects on your plants' health, whether in gardens or potted plants.",
+    "price": "249",
+    "image": {
+        "public_id": "Ecommerce/vbgds2grmt4d26ozik2i",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182747/Ecommerce/vbgds2grmt4d26ozik2i.webp"
+    },
+    "category": ["fertilizer"]
+
+},
+
+{
+    "name": "zz plant",
+    "description": "Topping the list of indestructible houseplants is the Zamioculcas Zamiifolia more popularly known as the ZZ plant. This plant is loved for his easy going and non-demanding nature. The wide, dark, glossy leaves instantly add life to any interior and he will be a happy trooper in the darkest corners of your home.",
+    "price": "499",
+    "image": {
+        "public_id": "Ecommerce/wwwvhsf6gcj4arbonzhf",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182747/Ecommerce/wwwvhsf6gcj4arbonzhf.webp"
+    },
+    "category": ["indoor"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "seaweed extract fertilizer",
+    "description": "Used for nurturing the healthy growth of plants. This is a pre-mixed formula of all essential plant nutrients. It promotes healthy root growth and better, denser foliage. Supplement your plants with this tonic for better growth and flowering at regular intervals. Always use the tonic either early morning or in the evening, never in peak sun.",
+    "price": "299",
+    "image": {
+        "public_id": "Ecommerce/amdul8pbaq0uouey4g7w",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182747/Ecommerce/amdul8pbaq0uouey4g7w.webp"
+    },
+    "category": ["fertilizer"]
+
+},
+
+{
+    "name": "homalomena plant",
+    "description": "The Homalomena plant is a leafy green and interesting indoor plant with heart or arrow shaped leaves that is tropical in its origin and loves indian indoors with indirect light. They are loved for her large glossy leaves and easy to care for nature. Also famous as the queen of hearts plant or shield plant, the leaves sometime emanate a subtle aniseed fragrance. They flower with tiny green lowers that are not showy and get overshadowed by the stunning green leaves. The leaves are generally dark green but can feature a red shade on the underside and on the stems. A great plant for new gardeners and homes that do not receive a lot of natural light.",
+    "price": "2199",
+    "image": {
+        "public_id": "Ecommerce/u40ndx0mymebmdwjakwf",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182747/Ecommerce/u40ndx0mymebmdwjakwf.webp"
+    },
+    "category": ["indoor"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "indian cristmas tree",
+    "description": "As plant lovers, we have always wondered why get fake trees when you can have the real one and it can grow with every Christmas it celebrates. Drum roll for the real Christmas Tree please!!! Famous as the Indian Christmas tree, the Norfolk Pine is easy to care for and grows happily in a planter year after year with minimal care. Dress it up with your favourite Christmas trinkets and ornaments and both the Christmas memories and the tree will last you forever. Lets go green and make our trees as real as our happiness this season.",
+    "price": "1999",
+    "image": {
+        "public_id": "Ecommerce/pkprryb7i7uggic6rbhk",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182747/Ecommerce/pkprryb7i7uggic6rbhk.webp"
+    },
+    "category": ["indoor", "xl"]
+
+},
+
+{
+    "name": "thuja plant",
+    "description": "This sun-loving plant will add an evergreen patch to balconies and windows with the harshest sunlight. Excellent choice to provide that much-needed shielding from your intrusive neighbours, this conifer with its flat leaves requires very little care and can be pruned into almost any shape. Resilient in the face of pollution they will also trap most of the dust that your windows or balconies get.",
+    "price": "1999",
+    "image": {
+        "public_id": "Ecommerce/v2dzcrn8kav5nhulppge",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182747/Ecommerce/v2dzcrn8kav5nhulppge.webp"
+    },
+    "category": ["indoor", "xl"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "ixora plant",
+    "description": "Also known as Jungle Geraniums, Ixoras are small tropical shrubs that will reward you with beautiful clusters of flowers in bright yellow with very little care. Perfect for balcony gardens, these hardy plants need full sun and very little space to grow. The flowers bloom in a tight ball like cluster of tiny blooms that attract hummingbirds, butterflies, and bees with their fragrance.",
+    "price": "599",
+    "image": {
+        "public_id": "Ecommerce/gofrqwndwpeplpnzjhcc",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182748/Ecommerce/gofrqwndwpeplpnzjhcc.webp"
+    },
+    "category": ["indoor", "flowering"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "lucky bamboo plant",
+    "description": "One of the luckiest plants according to Feng Shui is the Lucky Bamboo 3 Layer plant. This easy to grow and inexpensive plant is a popular choice of plant to keep at homes or offices. An excellent and easy to maintain gifting option that is said to bring luck to the bearer. Place it in a stunning glass bowl and make it a centrepiece.",
+    "price": "434",
+    "image": {
+        "public_id": "Ecommerce/iwd7hmwk01y9yymw25bg",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182748/Ecommerce/iwd7hmwk01y9yymw25bg.webp"
+    },
+    "category": ["indoor"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "haworthia maculata plant",
+    "description": "The haworthia maculata has faceted leaves with pointed ends that are fleshy and speckled with white variegations. These cheeky little fellows are excellent for terrariums or as desk planters to bring that spot of green to work areas without much fuss.",
+    "price": "339",
+    "image": {
+        "public_id": "Ecommerce/ktagrt0itn0uwt4zexpm",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182749/Ecommerce/ktagrt0itn0uwt4zexpm.webp"
+    },
+    "category": ["indoor"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "kalanchoe plant",
+    "description": "Looking for a succulent that blooms profusely? Kalanchoe is your answer. The Kalanchoe Red is a perennial succulent with thick leaves and eye-catching crimson-red flowers that grow in clusters through the year. Easy to grow and care for, the kalanchoe will fill your room with colour without much effort. All that it needs is a patch of sunshine.",
+    "price": "499",
+    "image": {
+        "public_id": "Ecommerce/djfmjgf3hrgtyk8pajex",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182749/Ecommerce/djfmjgf3hrgtyk8pajex.webp"
+    },
+    "category": ["indoor", "flowering"]
+},
+
+{
+    "name": "money plant marble with hanging pot",
+    "description": "The stunning Money Plant Marble features unique white variegations on glossy, heart shaped green leaves. One of the easiest indoor plants to grow, its loved by home gardeners across the globe for its ease to adapt to any space. It is an air purifier that can be both allowed to hang or trail up the walls to lend a tropical feel to your home.",
+    "price": "999",
+    "image": {
+        "public_id": "Ecommerce/ktg42zyrpxeseeysjetf",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182749/Ecommerce/ktg42zyrpxeseeysjetf.webp"
+    },
+    "category": ["indoor", "pot"],
+
+    "bestSeller": true
+
+},
+
+{
+    "name": "netted ficus tree",
+    "description": "The Ficus Benjamina is a true survivor in the world of houseplants and this braided variety adds to its beauty. Carefully hand braided and grown with care to give you an intricate shape that is extremely eye catching. Excellent as an indoor as well as an outdoor plant for balconies and patios, a braided ficus is the conversation starter your home garden needs. Not only a thing of beauty, it also cleans the air in your home.",
+    "price": "3999",
+    "image": {
+        "public_id": "Ecommerce/dal7dpz8jdtbfd6dcll4",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182750/Ecommerce/dal7dpz8jdtbfd6dcll4.webp"
+    },
+    "category": ["indoor", "xl"],
+
+    "newArrival": true
+
+},
+
+{
+    "name": "monstera plant",
+    "description": "You might have seen it in a million home decor posts on social media, the absolute reigning king, the Monstera Deliciosa, or the Swiss Cheese Plant is a prepossessing tropical delight with shiny large leaves with natural holes that resemble those in Swiss Cheese. Its mere presence adds happiness to a home and elevates your decor.",
+    "price": "1049",
+    "image": {
+        "public_id": "Ecommerce/lghw5orbygb5ltqopr7n",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704182750/Ecommerce/lghw5orbygb5ltqopr7n.webp"
+    },
+    "category": ["indoor", "xl"]
+
+},
+
+{
+    "name": "hanging pyramids planter",
+    "description": "This hanging planter is a decor piece to be envious of. Add it to the corners of your home with trailing plants and turn them into a conversation starter. Made of a premium quality metal planter in black and gold, it's a perfect fit for your plant babies.",
+    "price": "1799",
+    "image": {
+        "public_id": "Ecommerce/urnad9ax0yeyjjclltaz",
+        "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704183118/Ecommerce/urnad9ax0yeyjjclltaz.webp"
+    },
+    "category": ["pot"]
+
+}
+
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "title": "indoor",
+        "image": {
+            "public_id": "Ecommerce/yqndbkdntlzztsod6f9k",
+            "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704383528/Ecommerce/yqndbkdntlzztsod6f9k.jpg"
+        },
+
+        "products":["6596f55226e2a830fb1c236d", "6596f70e8ca6d13df3557257", "6596f70e8ca6d13df3557257", "6596f70e8ca6d13df355725a", "6596f70e8ca6d13df355725b", "6596f70e8ca6d13df355725d", "6596f70e8ca6d13df355725e", "6596f70e8ca6d13df355725f", "6596f70e8ca6d13df3557260", "6596f70e8ca6d13df3557258", "6596f70e8ca6d13df3557259", "6596f70e8ca6d13df3557263", "6596f70e8ca6d13df3557265", "6596f70e8ca6d13df3557267", "6596f70e8ca6d13df3557268", "6596f70e8ca6d13df3557269", "6596f70e8ca6d13df355726d", "6596f70e8ca6d13df355726c", "6596f70e8ca6d13df355726e", "6596f70e8ca6d13df3557262", "6596f70e8ca6d13df3557272", "6596f70e8ca6d13df3557273", "6596f70e8ca6d13df3557274", "6596f70e8ca6d13df3557275", "6596f70e8ca6d13df3557276", "6596f70e8ca6d13df3557277", "6596f70e8ca6d13df3557278", "6596f70e8ca6d13df3557279", "6596f70e8ca6d13df355727a", "6596f70e8ca6d13df355727b", "6596f70e8ca6d13df3557270"]
+    },
+
+    {
+        "title": "flowering",
+        "image": {
+            "public_id": "Ecommerce/ka2e54jl8uuvqvaqicry",
+            "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704423785/Ecommerce/ka2e54jl8uuvqvaqicry.png"
+        },
+
+        "products": ["6596f70e8ca6d13df3557256", "6596f70e8ca6d13df355725e", "6596f70e8ca6d13df355725f", "6596f70e8ca6d13df3557258", "6596f70e8ca6d13df3557259", "6596f70e8ca6d13df355726e", "6596f70e8ca6d13df3557275", "6596f70e8ca6d13df3557278"]
+    },
+
+    {
+        "title": "xl",
+        "image": {
+            "public_id": "Ecommerce/rblr40dytc1pjuixzdjo",
+            "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704383527/Ecommerce/rblr40dytc1pjuixzdjo.jpg"
+        },
+
+        "products": ["6596f70e8ca6d13df3557257", "6596f70e8ca6d13df355725a", "6596f70e8ca6d13df355725f", "6596f70e8ca6d13df3557258", "6596f70e8ca6d13df3557263", "6596f70e8ca6d13df3557265", "6596f70e8ca6d13df3557268",  "6596f70e8ca6d13df355726d", "6596f70e8ca6d13df3557262", "6596f70e8ca6d13df3557273", "6596f70e8ca6d13df3557274", "6596f70e8ca6d13df355727a", "6596f70e8ca6d13df355727b"]
+    },
+
+    {
+        "title": "pot",
+        "image": {
+            "public_id": "Ecommerce/upwojwjwybgmrtqp6iml",
+            "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704383533/Ecommerce/upwojwjwybgmrtqp6iml.webp"
+        },
+
+        "products": ["6596f70e8ca6d13df355725c", "6596f70e8ca6d13df3557266", "6596f70e8ca6d13df355726b", "6596f70e8ca6d13df3557279", "6596f70e8ca6d13df355727c"]
+    },
+
+    {
+        "title": "fertilizer",
+        "image": {
+            "public_id": "Ecommerce/kq2mqziemj2m6juwecmt",
+            "url": "https://res.cloudinary.com/dmwhftklp/image/upload/v1704383530/Ecommerce/kq2mqziemj2m6juwecmt.avif"
+        },
+
+        "products": ["6596f70e8ca6d13df3557264", "6596f70e8ca6d13df355726a", "6596f70e8ca6d13df3557261","6596f70e8ca6d13df3557271", "6596f70e8ca6d13df355726f"]
+    }
+]
