@@ -28,7 +28,6 @@ app.get('/', (req, res) => {
 app.use('/category', CategoryRouter)
 app.use('/product', ProductRouter)
 app.use('/home', ProductRouter)
-app.use('/home', ProductRouter)
 
 
 dbConnect();

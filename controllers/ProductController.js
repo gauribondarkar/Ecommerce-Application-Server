@@ -21,9 +21,16 @@ const getNewArrival = async (req, res) => {
 }
 
 
+const getAllProducts = async (req, res) => {
+    const allProducts = await Product.find();
+    res.send(allProducts);
+}
+
+
 
 module.exports = {
     getProductDetails,
     getBestSeller,
-    getNewArrival
+    getNewArrival,
+    getAllProducts
 }
