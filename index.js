@@ -1,7 +1,7 @@
 const express = require('express');
 const dotenv = require('dotenv').config('./env');
 const dbConnect = require('./dbConnect');
-// const morgan = require('morgan');
+const morgan = require('morgan');
 const cloudinary = require('cloudinary').v2;
 const CategoryRouter = require('./routers/CategoryRouter')
 const ProductRouter = require('./routers/ProductRouter')
@@ -15,7 +15,7 @@ cloudinary.config({
 const app = express();
 
 app.use(express.json({limit: '10mb'}));
-// app.use(morgan("common"));
+app.use(morgan("common"));
 
 app.use(cors({
     credentials: true,
